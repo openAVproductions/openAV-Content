@@ -1,4 +1,4 @@
-![screenshot](https://raw.github.com/harryhaaren/openAV-Content/tree/breaks/openAV-breaks/.image/breaks.png "OpenAV Breaks")
+![screenshot](https://raw.github.com/harryhaaren/openAV-Content/breaks/openAV-breaks/.image/breaks.png "OpenAV Breaks")
 
 [Official OpenAV Content page](http://openavproductions.com/content "OpenAV Content")
 
