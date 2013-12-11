@@ -1,11 +1,7 @@
-Content - OpenAV Productions
-===============================
+[[screenshot](https://raw.github.com/harryhaaren/openAV-Content/master/.image/openAVcontent.png "OpenAV Content") ](http://openavproductions.com/content)
 
-![screenshot](https://raw.github.com/harryhaaren/openAV-Content/master/.image/openAVcontent.png "OpenAV Content")
+http://openavproductions.com/content
 
-```
-Official page: http://openavproductions.com/content
-```
 
 This is the repository for OpenAV content.
 Luppp sample packs, and various other audio content
